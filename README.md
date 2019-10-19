@@ -1,2 +1,1 @@
-# schemingandconniving
-He He He
+# Working through the Little Schemer
